@@ -1,0 +1,16 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+python-dotenv
+livekit-api
+flask[async]
+flask
+flask-cors
+uvicorn
+mcp>=1.1.1
+eventregistry
+googlemaps >= 4.10.0
+asyncio >= 3.4.3
+fastmcp
+httpx
+sys
